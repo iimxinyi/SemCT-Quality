@@ -136,7 +136,7 @@ Replace `pipeline_stable_diffusion.py` with the file of the same name from this 
 
 `Fitting.py`: Used to get the fitting function.
 
-## 6 Explanation of Our Results
+## 6 Generated Content
 
 Our generated image is available in:
 
