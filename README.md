@@ -151,7 +151,7 @@ Our generated image is available in:
 Baidu Netdisk: Link:    Extraction code:
 
 ## 7 Demo
-![image](/Files/SemCT-Github.pdf)
+![image](/Files/SemCT-Github.png)
 
 Public prompt 1: `A graceful cat sitting in a warm and story-rich environment, highlighting its silky fur.`
 
