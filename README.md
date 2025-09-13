@@ -1,6 +1,6 @@
 # SemCT-Quality
 
-**Overview:** General model of generation quality in the SemCT framework.
+**Overview:** General model of content quality in the SemCT framework.
 
 **Paper:** "When Diffusion Model Inference Meets MEC Networks: From Independence to Collaboration" --Submitted to IEEE Communications Magazine.
 
@@ -128,10 +128,40 @@ Replace `pipeline_stable_diffusion.py` with the file of the same name from this 
 
 ## 5 Explanation of Our Code Files
 
-`1-Get-Figures`:
+`Get-Images.py`:
 
-Used to generate images for evaluating the effectiveness of individual design elements.
+Used to generate images with varying shared inference proportion and semantic similarity between personal and public prompts.
 
+`Prompt_Similarity.py`:
+
+Used to calculate the semantic similarity matrix.
+
+`CLIP_Calculation.py`:
+
+Used to calculate the content quality (i.e., CLIP score).
+
+`Fitting.py`:
+
+Used to get the fitting function.
+
+## 6 Explanation of Our Results
+
+Our generated image is available in:
+
+Baidu Netdisk: Link:    Extraction code:
+
+## 7 Demo
+![image](/Files/SemCT-Github.pdf)
+
+Public prompt 1: `A graceful cat sitting in a warm and story-rich environment, highlighting its silky fur.`
+
+Public prompt *M*: `A beautifully detailed dog with expressive eyes and a unique coat stands in a scenic natural setting.`
+
+Personal prompt 1: `A fluffy white cat with blue eyes sitting gracefully on a windowsill, bathed in golden sunlight, with a serene garden visible through the window.`
+
+Personal prompt 2: `A gray cat with green eyes, sitting on a wooden porch, with soft sunlight highlighting its fur and a blurred garden in the background.`
+
+Personal prompt *N*: `A majestic dog with striking blue eyes and a muscular build stands alert on a rocky cliff edge, its thick, wavy fur glowing in the golden hour sunlight.` 
 
 
 
