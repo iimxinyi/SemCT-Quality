@@ -113,6 +113,7 @@ yacs                     0.1.8
 zipp                     3.21.0
 ```
 
+
 ## 4 Locate and Modify StableDiffusion3Pipeline
 
 Open `Demo.py` in your code editor.
@@ -136,11 +137,13 @@ Replace `pipeline_stable_diffusion.py` with the file of the same name from this 
 
 `Fitting.py`: Used to get the fitting function.
 
+
 ## 6 Generated Content
 
 Our generated image is available in:
 
 Baidu Netdisk: Link:    Extraction code:
+
 
 ## 7 Demo
 ![image](/Files/SemCT-Github.png)
@@ -156,10 +159,14 @@ Personal prompt 2: `A gray cat with green eyes, sitting on a wooden porch, with 
 Personal prompt *N*: `A majestic dog with striking blue eyes and a muscular build stands alert on a rocky cliff edge, its thick, wavy fur glowing in the golden hour sunlight.` 
 
 
+## 8 Acknowledge
+[Stable Diffusion 3 Medium](https://huggingface.co/stabilityai/stable-diffusion-3-medium-diffusers/tree/main): It is a wonderful large vision model.
 
+[CLIP](https://openai.com/index/clip/): It is a neural network that connects text and images.
 
+[Sentence-Transformer](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2): It maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.
 
-
+[DistributedDiffusion](https://github.com/HongyangDu/DistributedDiffusion): It is the first work on inference sharing in wireless networks.
 
 
 
