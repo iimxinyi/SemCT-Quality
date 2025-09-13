@@ -128,21 +128,13 @@ Replace `pipeline_stable_diffusion.py` with the file of the same name from this 
 
 ## 5 Explanation of Our Code Files
 
-`Get-Images.py`:
+`Get-Images.py`: Used to generate images with varying shared inference proportion and semantic similarity between personal and public prompts.
 
-Used to generate images with varying shared inference proportion and semantic similarity between personal and public prompts.
+`Prompt_Similarity.py`: Used to calculate the semantic similarity matrix.
 
-`Prompt_Similarity.py`:
+`CLIP_Calculation.py`: Used to calculate the content quality (i.e., CLIP score).
 
-Used to calculate the semantic similarity matrix.
-
-`CLIP_Calculation.py`:
-
-Used to calculate the content quality (i.e., CLIP score).
-
-`Fitting.py`:
-
-Used to get the fitting function.
+`Fitting.py`: Used to get the fitting function.
 
 ## 6 Explanation of Our Results
 
