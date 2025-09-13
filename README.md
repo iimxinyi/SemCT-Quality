@@ -4,7 +4,7 @@
 
 **Paper:** "When Diffusion Model Inference Meets MEC Networks: From Independence to Collaboration" --Submitted to IEEE Communications Magazine.
 
-****Experimental Platform:** Ubuntu 20.04 system equipped with an Intel Xeon Gold 6248R CPU and an NVIDIA A100 GPU.
+**Experimental Platform:** Ubuntu 20.04 system equipped with an Intel Xeon Gold 6248R CPU and an NVIDIA A100 GPU.
 
 
 ## 1 Environment Setup
@@ -114,6 +114,7 @@ zipp                     3.21.0
 ```
 
 ## 4 Locate and Modify StableDiffusion3Pipeline
+
 Open `Demo.py` in your code editor.
 
 Hold down the `ctrl` key if you are on Linux or Windows, or the `command` key if you are on MacOS, and click on StableDiffusion3Pipeline.
@@ -123,3 +124,21 @@ Hold down the `ctrl` key if you are on Linux or Windows, or the `command` key if
 This will navigate to the file `pipeline_stable_diffusion_3.py`.
 
 Replace `pipeline_stable_diffusion.py` with the file of the same name from this repository.
+
+
+## 5 Explanation of Our Code Files
+
+`1-Get-Figures`:
+
+Used to generate images for evaluating the effectiveness of individual design elements.
+
+
+
+
+
+
+
+
+
+
+
