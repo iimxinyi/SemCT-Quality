@@ -142,7 +142,7 @@ Replace `pipeline_stable_diffusion.py` with the file of the same name from this 
 
 Our generated image is available in:
 
-Baidu Netdisk: Link:    Extraction code:
+Baidu Netdisk: Link: https://pan.baidu.com/s/1GwlOGECB8pqL6Q_FY2vWFw?pwd=4q8x    Extraction code: 4q8x 
 
 
 ## 7 Demo
