@@ -2,7 +2,7 @@
 
 **Overview:** General model of content quality in the SemCT framework.
 
-**Paper:** "When Diffusion Model Inference Meets MEC Networks: From Independence to Collaboration" --Submitted to IEEE Communications Magazine.
+**Paper:** "When AIGC Meets MEC: A Novel Diffusion-based Collaborative Inference Paradigm" --Submitted to IEEE Communications Magazine.
 
 **Experimental Platform:** Ubuntu 20.04 system equipped with an Intel Xeon Gold 6248R CPU and an NVIDIA A100 GPU.
 
